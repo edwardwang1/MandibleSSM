@@ -8,4 +8,4 @@ See the GIAS2 documentation for installation instructions, available here: https
 
 # Usage Instructions
 
-See the GIAS2 documentation for usage instructions, avaialable here: https://gias2-shape-modelling-tutorial.readthedocs.io/en/latest/shape-modelling-workflow.html. Refer to Step 4 - Shape Model Registration. The file in this repository title "mandible.pc.npz" is the file containing the principal components.
+See the GIAS2 documentation for usage instructions, available here: https://gias2-shape-modelling-tutorial.readthedocs.io/en/latest/shape-modelling-workflow.html. Refer to Step 4 - Shape Model Registration. The file in this repository title "mandible.pc.npz" is the file containing the principal components.
